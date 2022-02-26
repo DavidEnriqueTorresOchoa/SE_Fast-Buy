@@ -9,7 +9,7 @@ import  ec.edu.espe.fastbuy.controler.formshandler;
 
 /**
  *
- * @author W10
+ * @author TEAM 6
  */
 public class frmFastBuy extends javax.swing.JFrame {
 

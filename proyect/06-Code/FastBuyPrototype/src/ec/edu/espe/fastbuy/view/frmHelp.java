@@ -7,7 +7,7 @@ package ec.edu.espe.fastbuy.view;
 import  ec.edu.espe.fastbuy.controler.formshandler;
 /**
  *
- * @author W10
+ * @author TEAM 6
  */
 public class frmHelp extends javax.swing.JFrame {
 

@@ -9,7 +9,7 @@ import ec.edu.espe.fastbuy.controler.formshandler;
 
 /**
  *
- * @author itpacifico
+ * @author TEAM 6
  */
 public class frmCarrito extends javax.swing.JFrame {
 
